@@ -3,8 +3,8 @@ Contributors: Asif2BD
 Donate link: http://wordpressfoundation.org/donate/
 Tags: social bookmarks, social profile link, social profilr, social bookmarking, bookmark, social, social profile
 Requires at least: 2.5.0
-Tested up to: 3.5.2
-Stable tag: 2.2.0
+Tested up to: 4.1.0
+Stable tag: 2.2.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -83,6 +83,9 @@ Use plugin support button in WordPress.org [WordPress.org](http://wordpress.org/
 
 == Changelog ==
 
+= 2.2.1 =
+* Minor update, compatible to WordPress 4.1
+
 = 2.2.0 =
 * Several social network link structure update.
 * Removed old unusable network.
@@ -113,11 +116,9 @@ Use plugin support button in WordPress.org [WordPress.org](http://wordpress.org/
 
 == Upgrade Notice ==
 
-= 2.2.0 =
-Thanks for using Social Profilr Reimagined. As promised I am continuously trying to improve this plugin, and this update is kind of spring cleaning with major network link structure update. Its a recommended update to all other version user. Getting support becomes more easy from Setting Page. Check after update.
+= 2.2.1 =
+Thanks for using Social Profilr Reimagined. As promised I am continuously trying to improve this plugin, and this update bring comoatiblity to WordPress 4.1 . Its a recommended update to all other version user. Getting support becomes more easy from Setting Page. Check after update.
 
-= 2.0 =
-# Disable old "Social Profilr", install this one, follow instruction guide. Upon Activating you will get your old setting plus new network support.
 
 == Donation ==
 

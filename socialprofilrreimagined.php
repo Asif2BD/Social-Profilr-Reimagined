@@ -3,13 +3,13 @@
  * Plugin Name: Social Profilr Reimagined
  * Plugin URI: http://asif.im/spi
  * Description: Adding All Your Social Profile In WordPress Site Was Never Been This Easy.
- * Version: 2.2.0
+ * Version: 2.2.1
  * License: GPL2+
  * Author: M Asif Rahman
  * Author URI: http://asif.im
  * Text Domain: social-profilr-reimagined
  * Min WP Version: 2.5.0
- * Max WP Version: 3.5.2
+ * Max WP Version: 4.1.0
  */
 
 //-------------------------------------------------------------
