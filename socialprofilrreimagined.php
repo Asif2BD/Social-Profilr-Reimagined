@@ -121,7 +121,7 @@
 
 
 			//-----------------------------------------
-			function SocialprofilrClass() {
+			function SocialProfilr() {
 				$this->pluginPath = get_option('siteurl') . '/wp-content/plugins/' . dirname(plugin_basename(__FILE__));
 			}
 
@@ -330,7 +330,7 @@ function onSPOut() {
 
 
 			function widget_init() {
-				if (!function_exists('register_sidebar_widget'))
+				if (!function_exists('wp_register_sidebar_widget'))
 					return;
 
 
@@ -356,7 +356,7 @@ function onSPOut() {
 				}
 
 				// Register widget for use
-				register_sidebar_widget(array('Socialprofilr', 'widgets'), 'widget_Socialprofilr_output');
+				wp_register_sidebar_widget(array('Socialprofilr', 'widgets'), 'widget_Socialprofilr_output');
 			}
 
 			//-----------------------------------------
